@@ -1,16 +1,18 @@
-id: a1414133-480c-4153-9fe0-9139ac2f99d4
 name: interviewsim
+project_scope: main
+project_type: standalone
 description: "Simulates job interviews with custom Q&As"
 tier: prototype
 lane: side-projects
 priority: low
-category: learning
-focus: false
-open_tasks: 0
 oss: false
 stack: [typescript, react, convex, vite]
-repo: https://github.com/mxn2020/interviewsim
+repo: "https://github.com/mxn2020/interviewsim"
 deploy_url: null
 last_active: 2026-03-02
-tags: [ai, convex]
-notes:
+tags: [ai, convex, interview, simulation, practice, career, preparation]
+notes: null
+category: webapp
+focus: false
+open_tasks: 0
+id: a1414133-480c-4153-9fe0-9139ac2f99d4
